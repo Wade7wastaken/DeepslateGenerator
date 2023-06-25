@@ -1,0 +1,6 @@
+name: DeepslateGenerator
+version: '${project.version}'
+main: me.wade7.deepslategenerator.DeepslateGenerator
+api-version: 1.19
+authors: [ Wade7 ]
+description: Generates deepslate instead of cobblestone in cobblestone generators below y=0.
